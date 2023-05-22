@@ -3472,12 +3472,12 @@
       "lng": -9.9
     },
     {
-      "cityName": "Tomba kanssa",
-      "lat": 11.73333,
-      "lng": -10.18333
+      "cityName": "Tomba Dougoula",
+      "lat": 11.7333333,
+      "lng": -10.2
     },
     {
-      "cityName": "Tomba doula",
+      "cityName": "Tomba Foulah",
       "lat": 11.7166667,
       "lng": -10.2166667
     },
@@ -3497,7 +3497,7 @@
       "lng": -10.1333333
     },
     {
-      "cityName": "Tomba kobila",
+      "cityName": "Tomba",
       "lat": 11.7333333,
       "lng": -10.2166667
     },
